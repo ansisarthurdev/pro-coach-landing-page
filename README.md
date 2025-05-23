@@ -1,71 +1,42 @@
-# Getting Started with Create React App
+# ProCoach Landing Page Implementation
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a front-end development practice exercise, bringing a visually appealing landing page design to life. The goal was to recreate a design sourced from a Dribbble image, focusing on clean code, modern UI components, and engaging animations.
 
-## Available Scripts
+## 🚀 About the Project
 
-In the project directory, you can run:
+This project served as a valuable opportunity to hone front-end development skills by:
 
-### `npm start`
+- Translating a static visual design (from a Dribbble image) into a fully functional web interface without access to original design files.
+- Practicing component-based UI development with React and Radix UI.
+- Implementing smooth animations and transitions using Framer Motion.
+- Focusing on modern layout principles using Radix UI and styled components.
+- Creating a responsive and visually engaging landing page.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🛠 Tech Stack
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- React
+- Radix UI
+- Framer Motion
+- styled-components
 
-### `npm test`
+## ✨ Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Fully responsive design, adapting to various screen sizes.
+- Interactive elements and animations powered by Framer Motion.
+- Structured with reusable UI components built with Radix UI.
+- Modern and clean layout based on the provided Dribbble design.
+- Styled with the flexibility and power of styled-components.
 
-### `npm run build`
+## 🧠 What I Learned
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Practical application of React for building dynamic user interfaces.
+- Implementing and styling Radix UI components to create accessible and robust UI elements.
+- Adding fluid animations and micro-interactions with Framer Motion.
+- The process of interpreting a visual design from an image and translating it into code, including making decisions on spacing, typography, and responsiveness without explicit specifications.
+- The importance of pixel-perfect (or near-perfect) implementation when working from a visual reference.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+The visual design for this landing page was inspired by and implemented based on an image found on Dribbble. This project focused purely on the front-end implementation of that design.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 👨‍💻 Check out yourself
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# pro-coach-landing-page
+- [ProCoach Landing Page](https://pro-coach-landing-page.vercel.app/)
