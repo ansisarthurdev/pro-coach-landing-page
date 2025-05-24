@@ -191,11 +191,11 @@ const HeaderContainer = styled.header`
   @media (max-width: 1024px) {
     border-radius: 0;
     box-shadow: none;
-    padding-right: 1.5rem;
+    padding: 16px 1.5rem 10px 1.5rem;
   }
 
   @media (max-width: 868px) {
-    padding: 16px;
+    padding-right: 16px;
   }
 `;
 

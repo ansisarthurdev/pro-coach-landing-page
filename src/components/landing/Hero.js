@@ -73,24 +73,26 @@ const Hero = () => {
               gap="24px"
               width="100%"
               minWidth="200px"
-              maxWidth={{ initial: "90%", md: "400px" }}
+              maxWidth={{ initial: "100%", md: "400px" }}
               mt={{ initial: "60px", md: "0" }}
               mb={{ initial: "80px", md: "0" }}
               align={{ initial: "center", md: "start" }}
             >
-              <Text
-                as="p"
-                size="4"
-                weight="regular"
-                align={{ initial: "center", md: "left" }}
-                style={{
-                  color: "white",
-                  textShadow: "2px 2px 4px rgba(0, 0, 0, 0.2)",
-                }}
-              >
-                Get expert coaching that takes your game to the next level.
-                Reach your full potential with guidance that's all about you.
-              </Text>
+              <Box maxWidth="600px">
+                <Text
+                  as="p"
+                  size="4"
+                  weight="regular"
+                  align={{ initial: "center", md: "left" }}
+                  style={{
+                    color: "white",
+                    textShadow: "2px 2px 4px rgba(0, 0, 0, 0.2)",
+                  }}
+                >
+                  Get expert coaching that takes your game to the next level.
+                  Reach your full potential with guidance that's all about you.
+                </Text>
+              </Box>
 
               <Flex
                 gap={{ initial: "16px", xs: "8px" }}
