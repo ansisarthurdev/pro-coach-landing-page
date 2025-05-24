@@ -196,6 +196,7 @@ const HeaderContainer = styled.header`
 
   @media (max-width: 868px) {
     padding-right: 16px;
+    padding-bottom: 16px;
   }
 `;
 
